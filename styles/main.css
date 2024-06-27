@@ -113,3 +113,12 @@ address{
     align-items: center;
 }
 
+@media (max-width: 768px) {
+    .introduction-container, .projects-container, .quote-container, .signin-container,footer,header {
+      padding-left: 50px;
+      padding-right:50px;
+    .img-introduction{
+        width: 300px;
+    }
+}
+}
