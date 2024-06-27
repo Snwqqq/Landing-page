@@ -2,7 +2,7 @@
     padding-top: 100px;
     padding-left: 300px;
     padding-right: 300px;
-    background-color: black;
+    background:linear-gradient(to bottom,black 20%,white);
     display: flex;
     justify-content: space-between;
     color: white;
@@ -51,4 +51,17 @@ max-width: 200px;
     height: 200px;
     border: 3px solid rgb(137, 137, 201);
     border-radius: 10px;
+}
+
+.quote-container{
+    background-color: rgb(235, 235, 235);
+    padding: 60px 350px;
+}
+.quote{
+    font-size: 38px;
+}
+.author{
+    text-align: end;
+    font-weight: bold;
+    font-size: 20px;
 }
