@@ -1,0 +1,28 @@
+.introduction-container{
+    padding-top: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    min-height: 500px;
+}
+.text-introduction{
+ flex: 1;
+ max-width: 520px;
+}
+.text-introduction h1{
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 12px;
+}
+.text-introduction p{
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+.img-introduction{
+    width:600px;
+    height: 300px;
+}
