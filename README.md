@@ -21,6 +21,6 @@ Stanislav Snizhko - stanislav.cards@example.com
 
 Project Link: (later)
 
-ver. README 0.1
+ver. README 0.1 
 
 # Landing-page
